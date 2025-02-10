@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome:Deivid
+-Profissão: Autonomo
+-Cidade: São José da lapa
+-O que faz nas horas vaga: fico com a familia
+-Feedback sobre o curso Qualidade de Software:O curso de Qualidade de Software da EBAC oferece uma base sólida para quem quer iniciar na área de QA, cobrindo desde conceitos básicos até ferramentas práticas. O conteúdo é bem estruturado, com módulos que abordam testes manuais e automatizados. No geral, é uma boa opção para iniciantes que buscam uma introdução clara e objetiva ao mercado de QA
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma de estudos da EBAC é intuitiva e de fácil navegação, oferecendo um ambiente organizado para acompanhar o progresso no curso. Os vídeos e materiais complementares são bem estruturados, e o acesso ao conteúdo é prático. No entanto, poderia melhorar na interatividade, como fóruns mais ativos para troca de conhecimento entre alunos e instrutores, além de um suporte mais ágil para dúvidas técnicas. No geral, é uma boa plataforma para aprendizado online, mas há espaço para aprimoramentos na experiência do usuário.
 
 Obrigado!!!
 
